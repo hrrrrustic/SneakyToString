@@ -62,7 +62,7 @@ namespace SneakyToString {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Make constant.
+        ///   Looks up a localized string similar to Implement ToString.
         /// </summary>
         internal static string AnalyzerDescription {
             get {
@@ -71,7 +71,7 @@ namespace SneakyToString {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Can be made constant.
+        ///   Looks up a localized string similar to Need to implement ToString method.
         /// </summary>
         internal static string AnalyzerMessageFormat {
             get {
